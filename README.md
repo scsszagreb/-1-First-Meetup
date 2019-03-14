@@ -1,6 +1,6 @@
 # A demo for our first meetup
 
-![DEMO](http://i65.tinypic.com/vzymtk.png)
+![DEMO](http://i67.tinypic.com/n1cvna.png)
 
  This is our demo from our first [S(CSS)_Zagreb meetup](https://www.meetup.com/S_CSS_Zagreb/events/257860075/)
 
