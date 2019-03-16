@@ -4,6 +4,15 @@
 
  This is our demo from our first [S(CSS)_Zagreb meetup](https://www.meetup.com/S_CSS_Zagreb/events/257860075/)
 
+## Description
+
+  - Our first meetup at Klub MaMa 🥳🎉🕺
+    - Speaker: [Antonija Šimić](https://github.com/tonkec)
+    - Title: An introduction to CSS grid
+    - Description: responsive layout can be coded in many ways, but this time we are going to use cool CSS grid properties. We are going to create a responsive layout using grid properties. #livecoding 👩‍💻
+
+ - There is a room for one more speaker 👀 Let us know if you are interested, don't be shy 🙄
+
 ## Check out the presentation
   [Slides](https://slides.com/tonkecpalonkec/css-grid#/)
 
